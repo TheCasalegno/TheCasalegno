@@ -4,8 +4,6 @@ Founder of [NodeMod](https://github.com/NodeMod).
 
 Founder of [BotGround](https://github.com/BotGround).
 
-Helper of [WikiNM](https://github.com/WikiNM)
-
 # 👀 | About
 
 Hi, i'm **Giulio Casalegno**, i'm a little and useless developer from **Italy 🇮🇹**
