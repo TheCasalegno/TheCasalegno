@@ -1,5 +1,5 @@
 # Who am I?
-Based in turin, my name's **Giulio** and i'm a 15 y/o web-developer with the love of sport, in particular track&field and its promotion. Two years ago I created a web journal about athletics and its WebTV. The need to have an information system for live streaming appeared immediately, so with my knowledge of node.js I developed "TFstream" and all its derivatives (TFcross, TFracewalk) to allow integration and visualization of the results of sporting events in real time.
+Based in turin, my name's **Giulio** and i'm a 16 y/o web-developer with the love of sport, in particular track&field and its promotion. Two years ago I created a web journal about athletics and its WebTV. The need to have an information system for live streaming appeared immediately, so with my knowledge of node.js I developed "TFstream" and all its derivatives (TFcross, TFracewalk) to allow integration and visualization of the results of sporting events in real time.
 
 # Main projects
 
